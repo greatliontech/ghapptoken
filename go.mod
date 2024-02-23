@@ -3,8 +3,8 @@ module github.com/greatliontech/ghapptoken
 go 1.20
 
 require (
-	github.com/golang-jwt/jwt/v5 v5.0.0
-	github.com/google/go-github/v55 v55.0.0
+	github.com/golang-jwt/jwt/v5 v5.2.0
+	github.com/google/go-github/v53 v53.2.0
 	github.com/google/go-github/v55 v55.0.0
 	github.com/spf13/cobra v1.7.0
 )
